@@ -94,6 +94,31 @@
 ![Aiogram](https://img.shields.io/badge/Aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
 
+---
+
+## 🌐 **NETWORKING & SYSTEMS**
+
+</div>
+
+<div align="center">
+
+![Network Configuration](https://img.shields.io/badge/Network_Configuration-FF6B6B?style=for-the-badge&logoColor=white&labelColor=000000)
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white&labelColor=000000)
+![Switch Configuration](https://img.shields.io/badge/Switch_Config-4ECDC4?style=for-the-badge&logoColor=white&labelColor=000000)
+![Router Setup](https://img.shields.io/badge/Router_Setup-45B7D1?style=for-the-badge&logoColor=white&labelColor=000000)
+![CRM Systems](https://img.shields.io/badge/CRM_Systems-9B59B6?style=for-the-badge&logoColor=white&labelColor=000000)
+![kwizbot](https://img.shields.io/badge/kwizbot-00D2FF?style=for-the-badge&logoColor=white&labelColor=000000)
+
+### 📡 **Network Experience**
+```
+🔧 Switch Configuration & Management
+🌐 Router Setup (MikroTik RouterOS)
+📡 ONT/ONU Configuration & Troubleshooting  
+🔗 Network Infrastructure Setup
+📞 Technical Support & Customer Service
+💬 CRM Platform Management (kwizbot)
+```
+
 </div>
 
 <div align="center">
@@ -152,9 +177,15 @@
 ```yaml
 💻 Processor: Intel Core i5-9400F (6-Core @ 2.90 GHz)
 🎮 Graphics:  ASUS ROG STRIX GTX 1070Ti 8GB Gaming Advanced
-🧠 Memory:    16GB DDR4 (2x8GB) @ 1333 MHz  
+🧠 Memory:    8GB DDR4 (2x4GB) @ 1333 MHz  
 💾 Storage:   Kingston SA400S37 480GB SSD + Toshiba HDWD110 HDD
 🔌 Board:     ASRock H310CM-HDV (1 PCI-E x1, 1 PCI-E x16, 2 DDR4 DIMM)
+
+🖥️ Main Monitor:   Acer VG270 (180Hz Gaming Display)
+📺 Second Monitor: Samsung SyncMaster 940B (75Hz Analog)
+🎧 Audio:          HyperX Cloud III Wireless (Red)
+🖱️ Mouse:          Razer Deathadder Essential
+⌨️ Keyboard:       Bloody B314
 ```
 
 </div>
