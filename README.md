@@ -11,10 +11,10 @@
 <br>
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/.edokeq)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/eduard-1ab952381/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/edokeq-%E2%80%8E-1ab952381/)
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/edokeq)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@edokeq)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@edokeq.dev)
+[![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000)](mailto:edokeq@proton.me)
 
 <br>
 
@@ -201,12 +201,26 @@
 
 ## 📊 **GITHUB STATISTICS**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edokeq1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edokeq1&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false"/>
+<table align="center" width="100%">
+<tr>
+<td align="center" width="50%">
 
-<br><br>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edokeq1&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff&border_color=21262d&hide_border=false"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=edokeq1&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+</td>
+<td align="center" width="50%">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edokeq1&layout=compact&theme=github_dark_dimmed&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&border_color=21262d&hide_border=false"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edokeq1&theme=github-dark-blue&background=0d1117&border=21262d&stroke=c9d1d9&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&currStreakLabel=ffffff&sideLabels=c9d1d9&dates=c9d1d9)](https://git.io/streak-stats)
+
+</div>
 
 ---
 
@@ -216,7 +230,7 @@
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=edokeq1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=edokeq1&theme=onestar&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
 
 </div>
 
