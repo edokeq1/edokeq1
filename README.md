@@ -256,7 +256,15 @@ const me = new Developer();
 console.log(me.getLifeMotto()); 
 // 🐱 Code like a cat: curious, persistent, and always landing on your feet! 🐾
 ```
+---
 
+## 🤝 FRIENDS & COLLABORATORS  
+
+<div align="center">
+
+[![d3cryptex](https://img.shields.io/badge/d3cryptex-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/d3cryptex)  
+
+</div>
 ---
 
 ### 🤝 **LET'S CONNECT AND BUILD AMAZING THINGS TOGETHER!**
