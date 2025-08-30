@@ -10,11 +10,11 @@
 
 <br>
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/.freziq)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&labelColor=000000)](https://discord.com/users/.edokeq)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/eduard-1ab952381/)
-[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/freziq)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@freziq)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@freziq.dev)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)](https://t.me/edokeq)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000)](https://www.youtube.com/@edokeq)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:contact@edokeq.dev)
 
 <br>
 
@@ -167,42 +167,33 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td align="center" width="25%">
-
 ### 🔥 **ASSEMBLY**
-![Progress](https://progress-bar.dev/35/?title=Progress&width=200&color=FF6B6B)
-Understanding low-level
-system architecture
-
-</td>
-<td align="center" width="25%">
+```
+🎯 Focus: Understanding low-level system architecture
+📚 Status: Currently Learning
+🔧 Tools: NASM, MASM, GDB
+```
 
 ### ⚛️ **REACT ADVANCED**
-![Progress](https://progress-bar.dev/45/?title=Progress&width=200&color=61DAFB)
-Modern frontend
-development mastery
-
-</td>
-<td align="center" width="25%">
+```
+🎯 Focus: Modern frontend development mastery
+📚 Status: Expanding Knowledge
+🔧 Tools: React Hooks, Context API, Redux
+```
 
 ### 🎮 **UNITY**
-![Progress](https://progress-bar.dev/30/?title=Progress&width=200&color=000000)
-Game development
-and 3D programming
+```
+🎯 Focus: Game development and 3D programming
+📚 Status: Beginner Level
+🔧 Tools: Unity Engine, C# Scripting, Blender
+```
 
-</td>
-<td align="center" width="25%">
-
-### 🔍 **REVERSE ENG**
-![Progress](https://progress-bar.dev/70/?title=Progress&width=200&color=4ECDC4)
-Software analysis
-and security research
-
-</td>
-</tr>
-</table>
+### 🔍 **REVERSE ENGINEERING**
+```
+🎯 Focus: Software analysis and security research
+📚 Status: Intermediate Level
+🔧 Tools: IDA Pro, OllyDbg, Cheat Engine
+```
 
 <div align="center">
 
@@ -210,12 +201,12 @@ and security research
 
 ## 📊 **GITHUB STATISTICS**
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=freziq&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=freziq&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=edokeq1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edokeq1&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=333333&hide_border=false"/>
 
 <br><br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=freziq&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=edokeq1&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
 
 ---
 
@@ -225,7 +216,7 @@ and security research
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=freziq&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1)
+![Trophies](https://github-profile-trophy.vercel.app/?username=edokeq1&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -234,7 +225,7 @@ and security research
 ```javascript
 class Developer {
     constructor() {
-        this.name = "Eduard (freziq)";
+        this.name = "Eduard (edokeq)";
         this.age = 18;
         this.location = "🇺🇦 Kyiv, Ukraine";
         this.education = "🎓 Kiev Polytechnic Institute";
@@ -268,8 +259,8 @@ console.log(me.getLifeMotto());
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60"> <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60">
 
-![Profile Views](https://komarev.com/ghpvc/?username=freziq&label=Profile%20Views&color=000000&style=for-the-badge)
-[![Followers](https://img.shields.io/github/followers/freziq?label=Followers&style=for-the-badge&color=000000&labelColor=333333)](https://github.com/freziq?tab=followers)
-[![Stars](https://img.shields.io/github/stars/freziq?label=Stars&style=for-the-badge&color=000000&labelColor=333333)](https://github.com/freziq?tab=repositories)
+![Profile Views](https://komarev.com/ghpvc/?username=edokeq1&label=Profile%20Views&color=000000&style=for-the-badge)
+[![Followers](https://img.shields.io/github/followers/edokeq1?label=Followers&style=for-the-badge&color=000000&labelColor=333333)](https://github.com/edokeq1?tab=followers)
+[![Stars](https://img.shields.io/github/stars/edokeq1?label=Stars&style=for-the-badge&color=000000&labelColor=333333)](https://github.com/edokeq1?tab=repositories)
 
 </div>
