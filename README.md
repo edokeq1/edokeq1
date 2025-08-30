@@ -174,7 +174,7 @@
 ```yaml
 💻 Processor: Intel Core i5-9400F (6-Core @ 2.90 GHz)
 🎮 Graphics:  ASUS ROG STRIX GTX 1070Ti 8GB Gaming Advanced
-🧠 Memory:    8GB DDR4 (2x4GB) @ 1333 MHz  
+🧠 Memory:    16GB DDR4 (2x8GB) @ 1333 MHz  
 💾 Storage:   Kingston SA400S37 480GB SSD + Toshiba HDWD110 HDD
 🔌 Board:     ASRock H310CM-HDV (1 PCI-E x1, 1 PCI-E x16, 2 DDR4 DIMM)
 
