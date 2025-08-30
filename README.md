@@ -70,8 +70,6 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white&labelColor=000000)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&labelColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white&labelColor=000000)
 
 </div>
@@ -89,7 +87,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=000000)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=000000)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white&labelColor=333333)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&labelColor=000000)
 ![Aiogram](https://img.shields.io/badge/Aiogram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white&labelColor=000000)
 ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=000000)
@@ -189,42 +186,6 @@
 ```
 
 </div>
-
-<div align="center">
-
----
-
-## 🎯 **CURRENT LEARNING JOURNEY**
-
-</div>
-
-### 🔥 **ASSEMBLY**
-```
-🎯 Focus: Understanding low-level system architecture
-📚 Status: Currently Learning
-🔧 Tools: NASM, MASM, GDB
-```
-
-### ⚛️ **REACT ADVANCED**
-```
-🎯 Focus: Modern frontend development mastery
-📚 Status: Expanding Knowledge
-🔧 Tools: React Hooks, Context API, Redux
-```
-
-### 🎮 **UNITY**
-```
-🎯 Focus: Game development and 3D programming
-📚 Status: Beginner Level
-🔧 Tools: Unity Engine, C# Scripting, Blender
-```
-
-### 🔍 **REVERSE ENGINEERING**
-```
-🎯 Focus: Software analysis and security research
-📚 Status: Intermediate Level
-🔧 Tools: IDA Pro, OllyDbg, Cheat Engine
-```
 
 <div align="center">
 
