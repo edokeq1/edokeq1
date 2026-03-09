@@ -6,7 +6,7 @@
 
 <br>
 
-### 🎓 Computer Engineer | 🌍 Kyiv, Ukraine | 🎂 18 years old | 💻 KPI Graduate
+### 🎓 Computer Engineer | 🌍 Kyiv, Ukraine | 🎂 19 years old | 💻 KPI Graduate
 
 <br>
 
@@ -232,7 +232,7 @@
 class Developer {
     constructor() {
         this.name = "Eduard (edokeq)";
-        this.age = 18;
+        this.age = 19;
         this.location = "🇺🇦 Kyiv, Ukraine";
         this.education = "🎓 Kiev Polytechnic Institute";
         this.role = "💻 Computer Engineer";
