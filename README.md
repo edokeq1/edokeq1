@@ -6,73 +6,80 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8AB4F8&center=true&vCenter=true&width=600&lines=Next.js+%2B+React+developer;Lua+scripting+%26+C%2B%2B+systems;Building+things+at+night+%F0%9F%8C%99" alt="Typing SVG" />
 </a>
 
-<sub>
+<br>
+
 <a href="https://discord.com/users/.edokeq"><img src="https://img.shields.io/badge/Discord-1a1b27?style=flat-square&logo=discord&logoColor=8AB4F8" /></a>
 <a href="https://www.linkedin.com/in/edokeq-%E2%80%8E-1ab952381/"><img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=flat-square&logo=linkedin&logoColor=8AB4F8" /></a>
 <a href="https://t.me/edokeq"><img src="https://img.shields.io/badge/Telegram-1a1b27?style=flat-square&logo=telegram&logoColor=8AB4F8" /></a>
 <a href="https://www.youtube.com/@edokeq"><img src="https://img.shields.io/badge/YouTube-1a1b27?style=flat-square&logo=youtube&logoColor=8AB4F8" /></a>
 <a href="mailto:edokeq@proton.me"><img src="https://img.shields.io/badge/ProtonMail-1a1b27?style=flat-square&logo=protonmail&logoColor=8AB4F8" /></a>
-</sub>
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3" />
 
 ### `01` About
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://img.shields.io/badge/📍_Kyiv,_Ukraine-1a1b27?style=for-the-badge&logoColor=8AB4F8" />
+<img src="https://img.shields.io/badge/🎂_27.10.2006-1a1b27?style=for-the-badge&logoColor=8AB4F8" />
+<img src="https://img.shields.io/badge/💻_Software_Developer-1a1b27?style=for-the-badge&logoColor=8AB4F8" />
 
-```yaml
-name:      Eduard (edokeq)
-birthday:  2006-10-27
-location:  Kyiv, Ukraine
-role:      Software Developer
-```
+<br><br>
 
-</td>
-<td width="50%" valign="top">
+curious, persistent, always shipping — building with **Next.js**, **React**, **Lua** and **C++**.
 
-```yaml
-focus:     Next.js · React · Lua
-           C++ · JavaScript
-mindset:   curious, persistent,
-           always shipping
-```
-
-</td>
-</tr>
-</table>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3" />
 
 ### `02` Stack
 
-<div align="center">
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,html,css&theme=dark" />
 
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,cpp,lua,nodejs,mysql,html,css,git,github,vscode,visualstudio&theme=dark&perline=7" />
+**Systems & Scripting**
+<br>
+<img src="https://skillicons.dev/icons?i=cpp,lua,nodejs,mysql&theme=dark" />
 
-</div>
+**Tools**
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio&theme=dark" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3" />
 
 ### `03` Projects
 
+</div>
+
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-<img src="https://www.google.com/s2/favicons?domain=zemresurs.com&sz=32" align="left" width="20" style="margin-right:8px" />
-<b><a href="https://zemresurs.com/">zemresurs.com</a></b>
-<br><br>
-<sub>Live project — see it in action.</sub>
+<td width="50%" align="center">
+
+<a href="https://zemresurs.com/">
+<img src="https://api.microlink.io/?url=https%3A%2F%2Fzemresurs.com%2F&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+
+**[zemresurs.com](https://zemresurs.com/)**
+<br>
+<sub>Live web project</sub>
+
 </td>
-<td width="50%" valign="top">
-<img src="https://www.google.com/s2/favicons?domain=karting.ua&sz=32" align="left" width="20" style="margin-right:8px" />
-<b><a href="https://www.karting.ua/">karting.ua</a></b>
-<br><br>
-<sub>Live project — see it in action.</sub>
+<td width="50%" align="center">
+
+<a href="https://www.karting.ua/">
+<img src="https://api.microlink.io/?url=https%3A%2F%2Fwww.karting.ua%2F&screenshot=true&meta=false&embed=screenshot.url" width="100%" />
+</a>
+
+**[karting.ua](https://www.karting.ua/)**
+<br>
+<sub>Live web project</sub>
+
 </td>
 </tr>
 </table>
 
-### `04` GitHub
-
 <div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3" />
+
+### `04` GitHub
 
 <img src="https://github-readme-stats.vercel.app/api?username=edokeq1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8AB4F8&icon_color=8AB4F8&text_color=c9d1d9" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edokeq1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8AB4F8&text_color=c9d1d9" height="165" />
@@ -81,11 +88,9 @@ mindset:   curious, persistent,
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=edokeq1&theme=tokyo-night&bg_color=0d1117&color=8AB4F8&line=8AB4F8&point=ffffff&hide_border=true" width="100%" />
 
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:1a1b27&height=3" />
 
-### `05` Connections
-
-<div align="center">
+### `05` Connect
 
 [![d3cryptex](https://img.shields.io/badge/d3cryptex-1a1b27?style=flat-square&logo=github&logoColor=8AB4F8)](https://github.com/d3cryptex)
 
