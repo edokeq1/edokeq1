@@ -39,7 +39,22 @@ mindset:   curious, persistent, always shipping
 
 <br>
 
-## `03` GitHub
+## `03` Projects
+
+<div align="center">
+
+<a href="https://zemresurs.com/">
+  <img src="https://img.shields.io/badge/zemresurs.com-1a1b27?style=flat-square&logo=googlechrome&logoColor=8AB4F8" />
+</a>
+<a href="https://www.karting.ua/">
+  <img src="https://img.shields.io/badge/karting.ua-1a1b27?style=flat-square&logo=googlechrome&logoColor=8AB4F8" />
+</a>
+
+</div>
+
+<br>
+
+## `04` GitHub
 
 <div align="center">
 
@@ -54,7 +69,7 @@ mindset:   curious, persistent, always shipping
 
 <br>
 
-## `04` Connections
+## `05` Connections
 
 <div align="center">
 
